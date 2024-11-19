@@ -1,7 +1,7 @@
 ## ☦️ My Names Zura
 
 🖥️ Currently learning Web Development and C++ <br>
-🎓 Studying Computer Science In College! <br>
+🎓 CS Major <br>
 
 ♰ Matthew 19:26 <br>
 
