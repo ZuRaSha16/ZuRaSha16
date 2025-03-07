@@ -1,7 +1,7 @@
 ## Hello, My Name's Zurab!  
 
 ### 🖥️ Full Stack Developer
-### I am a Computer Science major with a passion for Web Development. Currently, I am enhancing my skills in Web Development. My journey includes exploring front-end and back-end technologies for building dynamic websites and web applications. Through hands-on projects, I aim to become a professional web developer.  
+### I am a Computer Science major passionate about web development and software engineering. I specialize in building dynamic, user-friendly websites and applications, exploring both front-end and back-end technologies. My journey involves mastering modern frameworks, optimizing performance, and creating seamless user experiences. Through hands-on projects, I am continuously improving my skills to become a proficient full-stack developer.  
 
 [![](https://visitcount.itsvg.in/api?id=ZuRaSha16&icon=0&color=0)](https://visitcount.itsvg.in)  
 
