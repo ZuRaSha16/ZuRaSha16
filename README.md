@@ -17,4 +17,4 @@
 
 
 ### Feel free to connect with me for collaborations, discussions, or opportunities! <br>
-Email: zurashukakidze77@gmail.com
+Email: shukakidze.zurab16@gmail.com
