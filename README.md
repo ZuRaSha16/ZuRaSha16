@@ -13,3 +13,6 @@
 
 ### 📋 Platforms:
 [![My Skills](https://skillicons.dev/icons?i=github,linkedin&theme=dark)](https://skillicons.dev)  
+
+Feel free to connect with me for collaborations, discussions, or opportunities!
+Email: [zurashukakidze77@gmail.com]
