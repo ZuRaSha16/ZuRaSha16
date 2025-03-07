@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,python,react,nextjs,nodejs,vite,git&theme=dark)](https://skillicons.dev)
 # 🖌️ Style:
 [![My Skills](https://skillicons.dev/icons?i=css,tailwind,figma&theme=dark)](https://skillicons.dev)
-# 📋 Project Platforms:
+# 📋 Platforms:
 [![My Skills](https://skillicons.dev/icons?i=github,linkedin&theme=dark)](https://skillicons.dev)
 
 
