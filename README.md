@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,linkedin&theme=dark)](https://skillicons.dev) 
 
 <details>
-  <summary>### 🚀 My Coding Journey</summary>
+  <summary>🚀 My Coding Journey</summary>
   
 <h5>
 Two years ago, I started my journey by learning the fundamentals of HTML, CSS, and JavaScript. As I delved deeper into JavaScript, I explored TypeScript and its powerful features. Over time, I mastered modern frameworks like React.js and Next.js, enabling me to build interactive, scalable web applications. Later, I expanded into backend development with Node.js, further strengthening my full-stack development expertise.
