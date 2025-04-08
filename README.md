@@ -16,7 +16,7 @@ I started my journey by learning the fundamentals of HTML, CSS, and JavaScript. 
 
 
 ### 💻 Languages and Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,python,react,,vite,nextjs,nodejs,git&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,python,react,vite,nextjs,nodejs,git&theme=dark)](https://skillicons.dev)  
 
 ### 🖌️ Style:
 [![My Skills](https://skillicons.dev/icons?i=css,tailwind,figma&theme=dark)](https://skillicons.dev)  
