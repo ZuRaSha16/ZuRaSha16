@@ -7,7 +7,7 @@
 
 
 ### 💻 Languages and Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,java,python,react,vite,nextjs,nodejs,git&theme=dark)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,java,python,react,vite,nextjs,nodejs,sql,git&theme=dark)](https://skillicons.dev)  
 
 ### 🖌️ Style:
 [![My Skills](https://skillicons.dev/icons?i=css,tailwind,figma&theme=dark)](https://skillicons.dev)  
