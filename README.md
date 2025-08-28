@@ -1,4 +1,4 @@
-![myBio](bio.png)
+##Hi, My Name's Zurab!
 
 ### 🖥️ Full Stack Developer
 ### I am a Computer Science student passionate about web development. I specialize in creating dynamic, user-friendly websites and applications. I actively explore both front-end and back-end technologies, focusing on mastering modern frameworks, optimizing performance, and delivering seamless user experiences. Through hands-on projects, I am continuously improving my skills to become a proficient full-stack developer.
