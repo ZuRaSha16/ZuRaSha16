@@ -1,4 +1,4 @@
-### 🖥️ Full Stack Developer
+### 🖥️ Web Developer
 
 ![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue)
 
