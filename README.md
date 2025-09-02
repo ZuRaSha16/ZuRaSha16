@@ -1,4 +1,4 @@
-![Banner](./original.png)  
+![Banner](./ban.png)  
 ![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue)   
 
 
