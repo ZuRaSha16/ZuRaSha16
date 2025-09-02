@@ -1,30 +1,27 @@
-![Banner](./ban.png)  
+<div align="center">
 
+  <!-- Banner -->
+  <img src="./ban.png" alt="Banner" width="100%" />
 
-
-### 💻 Languages and Frameworks:
-<p align="center">
+  ### 💻 Languages and Frameworks:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python,react,vite,nextjs,nodejs,mysql,git&theme=dark" />
   </a>
-</p>
 
-### 🖌️ Style:
-<p align="center">
+  ### 🖌️ Style:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,tailwind,figma&theme=dark" />
   </a>
-</p>
 
-### 📋 Platforms:
-<p align="center">
+  ### 📋 Platforms:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,linkedin&theme=dark" />
   </a>
-</p>
 
-### 🤝 Feel free to connect with me for collaborations, discussions, or opportunities!
-![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue)   
-<p align="center">
-  📧 Email: <b>shukakidze.zurab16@gmail.com</b>
-</p>
+  ### 🤝 Feel free to connect with me for collaborations, discussions, or opportunities!
+
+  ![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue)  
+
+  📧 Email: **shukakidze.zurab16@gmail.com**
+
+</div>
