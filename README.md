@@ -1,7 +1,11 @@
-### 🖥️ Web Developer
-![Banner](./banner.png)
+# 🖥️ Web Developer  
 
-![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue)
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue)   
+
 
 
 ### 💻 Languages and Frameworks:
