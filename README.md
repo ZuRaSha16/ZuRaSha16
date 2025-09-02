@@ -1,4 +1,5 @@
 ### 🖥️ Web Developer
+![Banner](./banner.png)
 
 ![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue)
 
