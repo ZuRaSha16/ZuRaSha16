@@ -1,16 +1,30 @@
 ![Banner](./ban.png)  
-![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue)   
 
 
 
 ### 💻 Languages and Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,java,python,react,vite,nextjs,nodejs,mysql,git&theme=dark)](https://skillicons.dev)  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python,react,vite,nextjs,nodejs,mysql,git&theme=dark" />
+  </a>
+</p>
 
 ### 🖌️ Style:
-[![My Skills](https://skillicons.dev/icons?i=css,tailwind,figma&theme=dark)](https://skillicons.dev)  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,tailwind,figma&theme=dark" />
+  </a>
+</p>
 
 ### 📋 Platforms:
-[![My Skills](https://skillicons.dev/icons?i=github,linkedin&theme=dark)](https://skillicons.dev) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,linkedin&theme=dark" />
+  </a>
+</p>
 
-### Feel free to connect with me for collaborations, discussions, or opportunities! <br>
-Email: shukakidze.zurab16@gmail.com
+### 🤝 Feel free to connect with me for collaborations, discussions, or opportunities!
+![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue)   
+<p align="center">
+  📧 Email: <b>shukakidze.zurab16@gmail.com</b>
+</p>
