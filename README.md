@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./banner.png" alt="Banner" width="100%" />
-</p>
-
+![Banner](./banner.png)  
 ![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue)   
 
 
