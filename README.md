@@ -3,19 +3,10 @@
   <!-- Banner -->
   <img src="./ban.png" alt="Banner" width="100%" />
 
-  ### 💻 Languages and Frameworks:
+  ### 💻 Tech Stack:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python,react,vite,nextjs,nodejs,mysql,git&theme=dark" />
-  </a>
-
-  ### 🖌️ Style:
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,tailwind,figma&theme=dark" />
-  </a>
-
-  ### 📋 Platforms:
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linkedin&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,python,react,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=vite,nextjs,nodejs,mysql,git&theme=dark,figma&theme=dark,github,vitest&theme=dark" />
   </a>
 
   ### 🤝 Feel free to connect with me for collaborations, discussions, or opportunities!
