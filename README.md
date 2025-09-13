@@ -14,7 +14,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite,nextjs,nodejs,mysql,git,figma,github,vscode&theme=dark" />
   </a>
+### 🤝 Feel free to connect with me for collaborations, discussions, or opportunities!
 
-  ### 🤝 Feel free to connect with me for collaborations, discussions, or opportunities!
+![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue) 
 
-  ![](https://komarev.com/ghp)
+📧 Email: **shukakidze.zurab16@gmail.com** 
+
+</div>
