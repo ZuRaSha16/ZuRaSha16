@@ -14,10 +14,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite,nextjs,nodejs,mysql,git,figma,github,vscode&theme=dark" />
   </a>
-### 🤝 Feel free to connect with me for collaborations, discussions, or opportunities!
 
-![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue) 
+  ### 🤝 Feel free to connect with me for collaborations, discussions, or opportunities!
 
-📧 Email: **shukakidze.zurab16@gmail.com** 
+  ![](https://komarev.com/ghpvc/?username=ZuRaSha16&color=blue) 
+
+  📧 Email: **shukakidze.zurab16@gmail.com** 
 
 </div>
