@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="./ban.png" alt="Banner" width="100%" />
+  <img src="./myBanner.png" alt="Banner" width="100%" />
 
   ### 💻 Tech Stack:
 
