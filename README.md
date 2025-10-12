@@ -12,7 +12,7 @@
 
   <!-- Bottom row (Tools & Platforms) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,nodejs,mysql,git,figma,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,nodejs,mysql,figma,github,vscode&theme=dark" />
   </a>
 
   ### 🤝 Feel free to connect with me for collaborations, discussions, or opportunities!
