@@ -7,7 +7,7 @@
 
   <!-- Top row (Languages & Frameworks) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,java,python,git,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,java,python,react&theme=dark" />
   </a>
 
   <!-- Bottom row (Tools & Platforms) -->
