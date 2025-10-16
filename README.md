@@ -7,12 +7,12 @@
 
   <!-- Top row (Languages & Frameworks) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,java,python,react&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,react,tailwind,nextjs&theme=dark" />
   </a>
 
   <!-- Bottom row (Tools & Platforms) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,nextjs,nodejs,mysql,figma,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,figma,git,github,vscode&theme=dark" />
   </a>
 
   ### 🤝 Feel free to connect with me for collaborations, discussions, or opportunities!
