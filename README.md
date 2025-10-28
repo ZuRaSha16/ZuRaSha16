@@ -5,7 +5,7 @@
 
   ### 💻 Tech Stack
 
-  <!-- Top row (Languages & Frameworks) -->
+  <!-- Top row (Languages & Frameworkss) -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,react,tailwind,nextjs&theme=dark" />
   </a>
