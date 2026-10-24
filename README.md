@@ -12,7 +12,7 @@
   <br />
   <!-- Bottom row (Tools & Platforms) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,figma,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,flutter,figma,git,github,vscode&theme=dark" />
   </a>
 
   <br /><br />
